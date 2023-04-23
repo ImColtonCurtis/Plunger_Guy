@@ -22,3 +22,9 @@ Contact Us
 For any questions, feedback, or technical issues, please contact our support team at nonothinggames@gmail.com. We'd love to hear from you and are committed to providing the best gaming experience possible!
 
 Thank you for choosing "Plunger Guy" by No Nothing. Enjoy the thrilling adventure of plunging into the skies and reaching new heights!
+
+Get the Game
+
+App Store: https://apps.apple.com/us/app/plunger-guy/id1659483336
+
+Google Play Store: https://play.google.com/store/apps/details?id=com.nonothing.plungerguy

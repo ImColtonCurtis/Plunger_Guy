@@ -1,6 +1,6 @@
 # Plunger Guy
 
-Welcome to "Plunger Guy" - an exciting mobile game developed by No Nothing! Plunge into the skies in this epic platforming plunger adventure! Test your skills as you navigate through challenging levels and avoid the bumbling bees in your quest to reach the heavens!
+Welcome to "Plunger Guy" - an exciting mobile game developed by Colton Curtis! Plunge into the skies in this epic platforming plunger adventure! Test your skills as you navigate through challenging levels and avoid the bumbling bees in your quest to reach the heavens!
 ## Features
 
     Unique Gameplay: Use your plunger to propel yourself through the skies and avoid obstacles.
@@ -18,12 +18,6 @@ Welcome to "Plunger Guy" - an exciting mobile game developed by No Nothing! Plun
 
 ## Contact Us
 
-For any questions, feedback, or technical issues, please contact our support team at nonothinggames@gmail.com. We'd love to hear from you and are committed to providing the best gaming experience possible!
+For any questions, feedback, or technical issues, please contact our me at imcoltoncurtis@gmail.com. We'd love to hear from you and are committed to providing the best gaming experience possible!
 
-Thank you for choosing "Plunger Guy" by No Nothing. Enjoy the thrilling adventure of plunging into the skies and reaching new heights!
-
-## Get the Game
-
-App Store: https://apps.apple.com/us/app/plunger-guy/id1659483336
-
-Google Play Store: https://play.google.com/store/apps/details?id=com.nonothing.plungerguy
+Thank you for choosing "Plunger Guy" by Colton Curtis. Enjoy the thrilling adventure of plunging into the skies and reaching new heights!
